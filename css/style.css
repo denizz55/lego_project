@@ -97,3 +97,54 @@ footer p{
     font-size: 18px;
     padding-top: 24px;
 }
+
+.blocki{
+    display: flex;
+    justify-content: center;
+    width: 1191px;
+    margin-left: 128px;
+}
+
+.block{
+    width: 265px;
+    height: 417px;
+    border-radius: 5px;
+    background: #F1F1F1;
+    margin: 44px;
+
+}
+
+h1{
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    padding: 38px 0 18px 128px;
+}
+
+.block img{
+    width: 229px;
+    height: 230px;
+    padding: 12px 18px 0 18px;
+}
+
+.block p {
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+
+.sell{
+    color: #000;
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 77px;
+    height: 30px;
+}
